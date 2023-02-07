@@ -1,0 +1,28 @@
+{
+    "usuarios":[
+        {
+            "id":1,
+            "apellido_paterno":"ANACONA",
+            "apellido_materno":"DIAZ",
+            "nombre":"NIXON",
+            "username":"nianacona",
+            "password":"827ccb0eea8a706c4c34a16891f84e7b"
+        },
+        {
+            "id":2,
+            "apellido_paterno":"ANACONA",
+            "apellido_materno":"DIAZ",
+            "nombre":"SARA",
+            "username":"saanacona",
+            "password":"e10adc3949ba59abbe56e057f20f883e"
+        },
+        {
+            "id":3,
+            "apellido_paterno":"ANACONA",
+            "apellido_materno":"BERMEO",
+            "nombre":"JOHN",
+            "username":"joanacona",
+            "password":"fcea920f7412b5da7be0cf42b8c93759"
+        }
+    ]
+}
